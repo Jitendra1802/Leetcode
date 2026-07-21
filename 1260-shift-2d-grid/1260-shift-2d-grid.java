@@ -1,36 +1,45 @@
 class Solution {
     public List<List<Integer>> shiftGrid(int[][] grid, int k) {
-        int m = grid.length;
-        int n = grid[0].length;
-        int total = m * n;
+        int n=grid[0].length;
+        int m=grid.length;
 
-        k %= total;
-
-        int[][] shifted = new int[m][n];
-
-        for(int i = 0; i < m; i++){
-            for(int j = 0; j < n; j++){
-                int idx = i * n + j;
-                int newIdx = (idx + k) % total;
-
-                int rewRow = newIdx / n;
-                int newCol = newIdx % n;
-
-                shifted[rewRow][newCol] = grid[i][j];
+        int[] arr= new int[m*n];
+        int z=arr.length;
+        k%=z;
+        int idx=0;
+        for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
+                arr[idx++]=grid[i][j];
             }
         }
+        reverse(arr,0,z-1);
+        reverse(arr,0,k-1);
+        reverse(arr,k,z-1);
 
-        List<List<Integer>> res = new ArrayList<>();
+        List<List<Integer>> ans = new ArrayList<>();
 
-        for(int i = 0; i < m; i++){
+        idx = 0;
+        for (int i = 0; i < m; i++) {
             List<Integer> row = new ArrayList<>();
-            for(int j = 0; j < n; j++){
-                row.add(shifted[i][j]);
+            for (int j = 0; j < n; j++) {
+                row.add(arr[idx++]);
             }
-
-            res.add(row);
+            ans.add(row);
         }
 
-        return res;
+        return ans;
+
+
+    }
+    private void reverse(int[] nums, int left, int right) {
+
+        while (left < right) {
+            int temp = nums[left];
+            nums[left] = nums[right];
+            nums[right] = temp;
+
+            left++;
+            right--;
+        }
     }
 }
