@@ -103,4 +103,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Jitendra1802/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Jitendra1802/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
+## Enumeration
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Jitendra1802/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
