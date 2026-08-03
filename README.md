@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Jitendra1802/Leetcode/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/Jitendra1802/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Jitendra1802/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
+| [1406-stone-game-iii](https://github.com/Jitendra1802/Leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Jitendra1802/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Jitendra1802/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Jitendra1802/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Jitendra1802/Leetcode/tree/master/0486-predict-the-winner) |
 | [1301-number-of-paths-with-max-score](https://github.com/Jitendra1802/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
+| [1406-stone-game-iii](https://github.com/Jitendra1802/Leetcode/tree/master/1406-stone-game-iii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Jitendra1802/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Matrix
 |  |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Jitendra1802/Leetcode/tree/master/0486-predict-the-winner) |
+| [1406-stone-game-iii](https://github.com/Jitendra1802/Leetcode/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Jitendra1802/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Jitendra1802/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Jitendra1802/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -157,4 +160,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Jitendra1802/Leetcode/tree/master/0486-predict-the-winner) |
+| [1406-stone-game-iii](https://github.com/Jitendra1802/Leetcode/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Jitendra1802/Leetcode/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Jitendra1802/Leetcode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
