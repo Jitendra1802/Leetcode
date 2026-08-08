@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Jitendra1802/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0486-predict-the-winner](https://github.com/Jitendra1802/Leetcode/tree/master/0486-predict-the-winner) |
+| [0746-min-cost-climbing-stairs](https://github.com/Jitendra1802/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0994-rotting-oranges](https://github.com/Jitendra1802/Leetcode/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/Jitendra1802/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Jitendra1802/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Jitendra1802/Leetcode/tree/master/0486-predict-the-winner) |
+| [0746-min-cost-climbing-stairs](https://github.com/Jitendra1802/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1301-number-of-paths-with-max-score](https://github.com/Jitendra1802/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/Jitendra1802/Leetcode/tree/master/1406-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Jitendra1802/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
