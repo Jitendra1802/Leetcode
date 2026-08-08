@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Jitendra1802/Leetcode/tree/master/0112-path-sum) |
 | [0127-word-ladder](https://github.com/Jitendra1802/Leetcode/tree/master/0127-word-ladder) |
 | [0994-rotting-oranges](https://github.com/Jitendra1802/Leetcode/tree/master/0994-rotting-oranges) |
 ## String
@@ -186,4 +187,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Jitendra1802/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Jitendra1802/Leetcode/tree/master/0112-path-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Jitendra1802/Leetcode/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Jitendra1802/Leetcode/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
