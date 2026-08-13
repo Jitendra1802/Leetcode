@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/Jitendra1802/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/Jitendra1802/Leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Jitendra1802/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Jitendra1802/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2498-frog-jump-ii](https://github.com/Jitendra1802/Leetcode/tree/master/2498-frog-jump-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Jitendra1802/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Jitendra1802/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Jitendra1802/Leetcode/tree/master/0307-range-sum-query-mutable) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Jitendra1802/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Jitendra1802/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Dynamic Programming
 |  |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Jitendra1802/Leetcode/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/Jitendra1802/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Jitendra1802/Leetcode/tree/master/0344-reverse-string) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Jitendra1802/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Jitendra1802/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Jitendra1802/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Jitendra1802/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -217,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Jitendra1802/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Jitendra1802/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
