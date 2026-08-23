@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Jitendra1802/Leetcode/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/Jitendra1802/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Jitendra1802/Leetcode/tree/master/1406-stone-game-iii) |
+| [1927-sum-game](https://github.com/Jitendra1802/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Jitendra1802/Leetcode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Jitendra1802/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Jitendra1802/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Jitendra1802/Leetcode/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/Jitendra1802/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Jitendra1802/Leetcode/tree/master/0344-reverse-string) |
+| [1927-sum-game](https://github.com/Jitendra1802/Leetcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Jitendra1802/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Jitendra1802/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Jitendra1802/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/Jitendra1802/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Jitendra1802/Leetcode/tree/master/2029-stone-game-ix) |
 | [2498-frog-jump-ii](https://github.com/Jitendra1802/Leetcode/tree/master/2498-frog-jump-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Jitendra1802/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Jitendra1802/Leetcode/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/Jitendra1802/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Jitendra1802/Leetcode/tree/master/1406-stone-game-iii) |
+| [1927-sum-game](https://github.com/Jitendra1802/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Jitendra1802/Leetcode/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
