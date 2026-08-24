@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/Jitendra1802/Leetcode/tree/master/0089-gray-code) |
 | [0486-predict-the-winner](https://github.com/Jitendra1802/Leetcode/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/Jitendra1802/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Jitendra1802/Leetcode/tree/master/1406-stone-game-iii) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/Jitendra1802/Leetcode/tree/master/0089-gray-code) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Jitendra1802/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Heap (Priority Queue)
 |  |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/Jitendra1802/Leetcode/tree/master/0089-gray-code) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Jitendra1802/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Tree
 |  |
