@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0127-word-ladder](https://github.com/Jitendra1802/Leetcode/tree/master/0127-word-ladder) |
 | [0229-majority-element-ii](https://github.com/Jitendra1802/Leetcode/tree/master/0229-majority-element-ii) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Jitendra1802/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Jitendra1802/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Jitendra1802/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Jitendra1802/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/Jitendra1802/Leetcode/tree/master/0229-majority-element-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Jitendra1802/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Jitendra1802/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Jitendra1802/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/Jitendra1802/Leetcode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Jitendra1802/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Jitendra1802/Leetcode/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/Jitendra1802/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Jitendra1802/Leetcode/tree/master/0344-reverse-string) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Jitendra1802/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/Jitendra1802/Leetcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Jitendra1802/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Jitendra1802/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Jitendra1802/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/Jitendra1802/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Jitendra1802/Leetcode/tree/master/2029-stone-game-ix) |
 | [2498-frog-jump-ii](https://github.com/Jitendra1802/Leetcode/tree/master/2498-frog-jump-ii) |
