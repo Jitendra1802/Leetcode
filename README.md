@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Jitendra1802/Leetcode/tree/master/0066-plus-one) |
 | [0229-majority-element-ii](https://github.com/Jitendra1802/Leetcode/tree/master/0229-majority-element-ii) |
 | [0307-range-sum-query-mutable](https://github.com/Jitendra1802/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0486-predict-the-winner](https://github.com/Jitendra1802/Leetcode/tree/master/0486-predict-the-winner) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Jitendra1802/Leetcode/tree/master/0043-multiply-strings) |
+| [0066-plus-one](https://github.com/Jitendra1802/Leetcode/tree/master/0066-plus-one) |
 | [0089-gray-code](https://github.com/Jitendra1802/Leetcode/tree/master/0089-gray-code) |
 | [0486-predict-the-winner](https://github.com/Jitendra1802/Leetcode/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/Jitendra1802/Leetcode/tree/master/1140-stone-game-ii) |
