@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Jitendra1802/Leetcode/tree/master/0043-multiply-strings) |
 | [0089-gray-code](https://github.com/Jitendra1802/Leetcode/tree/master/0089-gray-code) |
 | [0486-predict-the-winner](https://github.com/Jitendra1802/Leetcode/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/Jitendra1802/Leetcode/tree/master/1140-stone-game-ii) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Jitendra1802/Leetcode/tree/master/0043-multiply-strings) |
 | [1260-shift-2d-grid](https://github.com/Jitendra1802/Leetcode/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Jitendra1802/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Jitendra1802/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Jitendra1802/Leetcode/tree/master/0043-multiply-strings) |
 | [0127-word-ladder](https://github.com/Jitendra1802/Leetcode/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/Jitendra1802/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Jitendra1802/Leetcode/tree/master/0344-reverse-string) |
