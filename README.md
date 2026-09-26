@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/Jitendra1802/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0043-multiply-strings](https://github.com/Jitendra1802/Leetcode/tree/master/0043-multiply-strings) |
 | [0127-word-ladder](https://github.com/Jitendra1802/Leetcode/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/Jitendra1802/Leetcode/tree/master/0151-reverse-words-in-a-string) |
