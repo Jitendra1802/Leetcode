@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/Jitendra1802/Leetcode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Jitendra1802/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Jitendra1802/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Jitendra1802/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3904-smallest-stable-index-ii](https://github.com/Jitendra1802/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Jitendra1802/Leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Divide and Conquer
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/Jitendra1802/Leetcode/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Jitendra1802/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Jitendra1802/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Jitendra1802/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Matrix
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Jitendra1802/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Jitendra1802/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Jitendra1802/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Jitendra1802/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Jitendra1802/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Jitendra1802/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Jitendra1802/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Jitendra1802/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
