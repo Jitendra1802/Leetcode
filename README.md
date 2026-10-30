@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Jitendra1802/Leetcode/tree/master/0066-plus-one) |
 | [0089-gray-code](https://github.com/Jitendra1802/Leetcode/tree/master/0089-gray-code) |
 | [0486-predict-the-winner](https://github.com/Jitendra1802/Leetcode/tree/master/0486-predict-the-winner) |
+| [1017-convert-to-base-2](https://github.com/Jitendra1802/Leetcode/tree/master/1017-convert-to-base-2) |
 | [1140-stone-game-ii](https://github.com/Jitendra1802/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Jitendra1802/Leetcode/tree/master/1406-stone-game-iii) |
 | [1872-stone-game-viii](https://github.com/Jitendra1802/Leetcode/tree/master/1872-stone-game-viii) |
