@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Jitendra1802/Leetcode/tree/master/0066-plus-one) |
 | [0229-majority-element-ii](https://github.com/Jitendra1802/Leetcode/tree/master/0229-majority-element-ii) |
 | [0307-range-sum-query-mutable](https://github.com/Jitendra1802/Leetcode/tree/master/0307-range-sum-query-mutable) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Jitendra1802/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Jitendra1802/Leetcode/tree/master/0486-predict-the-winner) |
 | [0746-min-cost-climbing-stairs](https://github.com/Jitendra1802/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0835-image-overlap](https://github.com/Jitendra1802/Leetcode/tree/master/0835-image-overlap) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Jitendra1802/Leetcode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/Jitendra1802/Leetcode/tree/master/0066-plus-one) |
 | [0089-gray-code](https://github.com/Jitendra1802/Leetcode/tree/master/0089-gray-code) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Jitendra1802/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Jitendra1802/Leetcode/tree/master/0486-predict-the-winner) |
 | [1017-convert-to-base-2](https://github.com/Jitendra1802/Leetcode/tree/master/1017-convert-to-base-2) |
 | [1140-stone-game-ii](https://github.com/Jitendra1802/Leetcode/tree/master/1140-stone-game-ii) |
